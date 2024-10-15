@@ -3,5 +3,5 @@
 - 🌱 Estoy aprendiendo Java, Kotlin, JavaScript, Python y SQL.
 - 💞️ Soy amigable y me gustaría conocer gente para desarrollar y diseñar
 - 📫 Contacta conmigo por correo: german.sanchez.casas@iescelia.org
-- 😄 Pronombre: He / Him
+- 😄 Pronombres: He / Him
 - ⚡ Fun fact: Me gusta el fútbol, la play y Messi.
