@@ -1,7 +1,7 @@
 - 👋 Hola, soy Germán Sánchez, alias Gerxodar.
 - 👀 Estoy interesado en aprender a programar en diferentes lenguajes para desarrollar aplicaciones multiplataforma.
 - 🌱 Estoy aprendiendo Java, Kotlin, JavaScript, Python y SQL.
-- 💞️ Soy amigable y me gustaría conocer gente para desarrollar y diseñar
+- 💞️ Soy amigable y me gustaría conocer gente para desarrollar y diseñar.
 - 📫 Contacta conmigo por correo: german.sanchez.casas@iescelia.org
 - 😄 Pronombres: He / Him
 - ⚡ Fun fact: Me gusta el fútbol, la play y Messi.
