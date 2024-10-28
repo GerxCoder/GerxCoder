@@ -4,4 +4,4 @@
 - 💞️ Soy amigable y me gustaría conocer gente para desarrollar y diseñar.
 - 📫 Contacta conmigo por correo: german.sanchez.casas@iescelia.org
 - 😄 Pronombres: He / Him
-- ⚡ Fun fact: Me gusta el fútbol, la play y Messi.
+- ⚡ Fun fact: Me gusta el fútbol, la play y Messi (y Alba <3).
