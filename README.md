@@ -1,5 +1,3 @@
----
-
 # ¡Hola a todos! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 
 ¡Hola! Mi nombre es **Germán** y soy estudiante de segundo curso de **Desarrollo de Aplicaciones Multiplataforma** y estoy bastante interesado en el desarrollo de software, los videojuegos y la tecnología e informática en general. Me gusta tomarme las cosas en serio, soy muy social y me gusta aprender para ser un buen **profesional**. Estoy interesado en aprender y especializarme en el mundo de la **ciberseguridad y el hacking ético**. Trabajo en sistemas de tipo **Windows** y estoy aprendiendo a usar sistemas de tipo **Unix** y me especializo en **Java**, aunque estoy aprendiendo varios lenguajes como **Kotlin, JavaScript y Python**.
