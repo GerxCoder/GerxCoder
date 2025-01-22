@@ -10,6 +10,8 @@
 
 ## 🚀 Lenguajes y Frameworks
 
+Estos son todos los lenguajes de programación, frameworks y recursos que **he aprendido o estoy aprendiendo** a utilizar:
+
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-9933ff?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -27,7 +29,7 @@
 
 ## 🌱 Intereses
 
-Actualmente me intereso en el desarrollo backend, utilizando lenguajes orientados a objetos como *Java y Kotlin*. 
+Actualmente me intereso en el desarrollo backend, utilizando lenguajes de programación orientados a objetos como *Java y Kotlin*. 
 
 Aunque estoy interesado en aprender más sobre *Python* y las posibilidades que ofrece, tanto para el desarrollo de aplicaciones multiplataforma como para la creación de scripts para *hacking ético*.
 
@@ -35,7 +37,7 @@ Aunque estoy interesado en aprender más sobre *Python* y las posibilidades que 
 
 ## 📱 Redes Sociales
 
-Soy una persona muy divertida y extrovertida, con un punto introvertido y super amigable y respetuoso. Si quieres conocerme más o entrar en contacto conmigo, aquí tienes unos enlaces. ¡No dudes en escribirme!
+Soy una persona muy divertida y extrovertida, con un punto introvertido, super amigable y respetuoso. Si quieres conocerme más o entrar en contacto conmigo, aquí tienes unos enlaces. ¡No dudes en escribirme!
 
 <div align="center">
     <a href="https://www.instagram.com/germaansanchz">
