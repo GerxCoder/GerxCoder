@@ -44,7 +44,7 @@ Y para JavaScript y lenguajes de marcas, uso:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Próximamente, empezaré a desarrollar en Python en:
+Próximamente, empezaré a desarrollar con Python en:
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-%2390EE90.svg?style=for-the-badge&logo=pycharm&logoColor=black)
 
