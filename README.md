@@ -16,10 +16,10 @@ Estos son todos los lenguajes, frameworks y recursos que **he aprendido o estoy 
 De momento, me especializo en:
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/javase/tutorial/index.html)
+[![Kotlin](https://img.shields.io/badge/Kotlin-9933ff?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
 Y estoy aprendiendo a desarrollar en:
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-9933ff?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-102C54?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
