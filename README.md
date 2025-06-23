@@ -1,6 +1,6 @@
-# ¡Me llamo Germán! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+# ¡Soy GerxCoder! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 
-¡Hola! Mi nombre es **Germán Sánchez Casas**, soy estudiante de segundo curso de **Desarrollo de Aplicaciones Multiplataforma** y estoy bastante interesado en el desarrollo de software, los videojuegos, la tecnología y la informática en general. Me gusta tomarme las cosas en serio, soy muy social y disfruto instruyéndome para ser un buen **profesional**. Estoy interesado en aprender y especializarme en el mundo de la **ciberseguridad y el hacking ético**. Trabajo en sistemas de tipo **Windows** aunque estoy aprendiendo a usar sistemas de tipo **Unix** y me especializo en **Java**, pero tengo cierto conocimiento de varios lenguajes como **Kotlin, JavaScript y Python**.
+¡Hola! Mi nombre es **Germán Sánchez Casas**, soy estudiante de segundo curso de **Desarrollo de Aplicaciones Multiplataforma** y estoy bastante interesado en el desarrollo de software, la tecnología y la informática en general. Me gusta tomarme las cosas en serio, soy muy social y disfruto instruyéndome para ser un buen **profesional**. Estoy interesado en aprender y especializarme en el mundo del **desarrollo de software**. Trabajo en sistemas de tipo **Windows** aunque estoy aprendiendo a usar sistemas de tipo **Unix** y actualmente me especializo en **Java y Kotlin**. Estoy desarrollando un proyecto para mi TFC en el lenguaje **C#**. Más adelante, me interesaría aprender a programar en lenguajes como **Python y JavaScript** para mejorar mi stack.
 
 <div align="center">
     <img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300dp" height="300dp"/> 
@@ -20,6 +20,7 @@ De momento, me especializo en:
 
 Y estoy aprendiendo a desarrollar en:
 
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c#&logoColor=white)](https://dotnet.microsoft.com/es-es/languages/csharp)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-102C54?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
@@ -36,7 +37,11 @@ Mayoritariamente, desarrollo aplicaciones Java en los siguientes *IDEs*:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-Tengo algo de conocimiento para desarrollar aplicaciones en Android, y para ello utilizo:
+Para desarrollar mi TFC, usando C#, estoy utilizando:
+
+![VS Community](https://img.shields.io/badge/VS%20Community-5C2D91?style=for-the-badge&logo=visual-studio-community&logoColor=white)
+
+Tengo conocimiento para desarrollar aplicaciones en Android, y para ello utilizo:
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
@@ -71,7 +76,7 @@ Para controlar el versionado del código:
 
 ## 🌱 Intereses
 
-Actualmente me intereso en el desarrollo backend, utilizando lenguajes de programación orientados a objetos como *Java y Kotlin* aunque estoy interesado en aprender más sobre *Python* y las posibilidades que ofrece, tanto para el desarrollo de aplicaciones multiplataforma como para la creación de scripts para *hacking ético*.
+Actualmente me intereso en el desarrollo backend, utilizando lenguajes de programación orientados a objetos como *Java, Kotlin y C#* aunque estoy interesado en aprender más sobre *Python* y las posibilidades que ofrece, tanto para el desarrollo de aplicaciones multiplataforma como para la creación de scripts para *hacking ético*.
 
 En un futuro, me gustaría convertirme en desarrollador *full stack* y para ello me gustaría dominar el lenguaje *JavaScript* para el manejo de scripts en la programación web.
 
@@ -81,9 +86,9 @@ En un futuro, me gustaría convertirme en desarrollador *full stack* y para ello
 
 Soy una persona muy divertida y extrovertida, con un punto introvertido, super amigable y respetuoso. Si quieres conocerme más o entrar en contacto conmigo, aquí tienes unos enlaces. ¡No dudes en escribirme!
 
-[![Gmail](https://img.shields.io/badge/Gmail-5577B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsanchezcas05@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/germaansanchz)
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/germaansc5)
+[![Gmail](https://img.shields.io/badge/Gmail-5577B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gerxcoder@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gerxcoder)
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gerxcoder)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/germansanchezcasas/)
 
 ---
